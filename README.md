@@ -1,2 +1,2 @@
-# portotfolio-website
+# portofolio-website
 This is a in progress portofolio website using HTML5up
